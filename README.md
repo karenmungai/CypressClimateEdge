@@ -1,6 +1,6 @@
 ### Climate Edge
 
-##Cypress Github Integration 
+## Cypress Github Integration 
 
 
 ### Steps to run the tests
